@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.extensionActivationMode": "always",
+  "clangd.path": "I:\\New_Practice_2025\\ESP32\\ESP-IDF\\tools\\esp-clang\\16.0.1-fe4f10a809\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=i:\\New_Practice_2025\\ESP32\\Git_ESP32_Practice\\Sample_Codes\\Componnent_Creation\\build"
+  ],
+  "idf.currentSetup": "I:/New_Practice_2025/ESP32/ESP-IDF/frameworks/esp-idf-v5.3.1/"
+}
