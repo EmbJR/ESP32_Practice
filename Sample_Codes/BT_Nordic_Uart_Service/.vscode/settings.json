@@ -1,0 +1,17 @@
+{
+  "idf.currentSetup": "I:/New_Practice_2025/ESP32/ESP-IDF/frameworks/esp-idf-v5.3.1/",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "I:\\New_Practice_2025\\ESP32\\ESP-IDF\\tools\\esp-clang\\16.0.1-fe4f10a809\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=i:\\New_Practice_2025\\ESP32\\Practices\\bluetooth\\nimble\\ble_spp\\spp_server\\build"
+  ],
+  "idf.portWin": "COM10",
+  "idf.flashType": "UART"
+}
